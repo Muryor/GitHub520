@@ -54,7 +54,8 @@ RAW_URL = [
     "cloud.githubusercontent.com",
     "objects.githubusercontent.com",
     "wolfram.com",
-    "wolframcloud.com"]
+    "wolframcloud.com",
+    "wolframalpha.com"]
 
 IPADDRESS_PREFIX = ".ipaddress.com"
 
