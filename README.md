@@ -24,10 +24,10 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.113.25                 alive.github.com
+140.82.114.26                 alive.github.com
 140.82.114.26                 live.github.com
 185.199.108.154               github.githubassets.com
-140.82.113.21                 central.github.com
+140.82.112.21                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
@@ -35,9 +35,9 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 199.232.69.194                github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
 185.199.108.153               github.io
-140.82.113.4                  github.com
+140.82.114.4                  github.com
 192.0.66.2                    github.blog
-140.82.113.5                  api.github.com
+140.82.113.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -48,12 +48,12 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.113.10                 codeload.github.com
-52.216.132.179                github-cloud.s3.amazonaws.com
-52.217.164.73                 github-com.s3.amazonaws.com
-52.216.236.187                github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.131.137                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.173.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.113.9                  codeload.github.com
+52.217.201.193                github-cloud.s3.amazonaws.com
+52.217.37.44                  github-com.s3.amazonaws.com
+52.217.202.193                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.163.105                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.202.209                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.144.202                 github.community
 23.100.27.125                 github.dev
@@ -65,14 +65,14 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 140.177.204.192               wolframalpha.com
 
 
-# Update time: 2022-01-22T14:11:16+08:00
+# Update time: 2022-01-22T16:11:17+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-01-22T14:11:16+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-01-22T16:11:17+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
