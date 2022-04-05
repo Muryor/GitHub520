@@ -49,7 +49,7 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.113.9                  codeload.github.com
-52.217.138.9                  github-cloud.s3.amazonaws.com
+54.231.197.129                github-cloud.s3.amazonaws.com
 54.231.141.9                  github-com.s3.amazonaws.com
 52.217.99.156                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.109.203                github-production-user-asset-6210df.s3.amazonaws.com
@@ -65,14 +65,14 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 140.177.204.192               wolframalpha.com
 
 
-# Update time: 2022-04-06T02:13:10+08:00
+# Update time: 2022-04-06T04:12:34+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-06T02:13:10+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-06T04:12:34+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
