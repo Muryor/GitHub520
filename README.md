@@ -24,7 +24,7 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.113.25                 alive.github.com
+140.82.113.26                 alive.github.com
 140.82.113.26                 live.github.com
 185.199.108.154               github.githubassets.com
 140.82.113.22                 central.github.com
@@ -48,7 +48,7 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.9                  codeload.github.com
+140.82.113.10                 codeload.github.com
 52.217.168.145                github-cloud.s3.amazonaws.com
 54.231.228.105                github-com.s3.amazonaws.com
 52.217.197.65                 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -65,14 +65,14 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 140.177.204.192               wolframalpha.com
 
 
-# Update time: 2022-06-08T14:14:25+08:00
+# Update time: 2022-06-08T16:16:01+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-08T14:14:25+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-08T16:16:01+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
