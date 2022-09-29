@@ -26,11 +26,11 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 # GitHub520 Host Start
 140.82.113.4                  alive.github.com
 140.82.113.4                  live.github.com
-44.210.134.93                 github.githubassets.com
+54.236.61.0                   github.githubassets.com
 140.82.113.4                  central.github.com
-44.200.47.143                 desktop.githubusercontent.com
+34.230.24.155                 desktop.githubusercontent.com
 140.82.113.4                  assets-cdn.github.com
-44.210.134.93                 camo.githubusercontent.com
+18.207.132.5                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.113.4                  gist.github.com
@@ -38,16 +38,16 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 140.82.113.4                  github.com
 192.0.66.2                    github.blog
 140.82.113.4                  api.github.com
-3.238.119.163                 raw.githubusercontent.com
-3.239.97.184                  user-images.githubusercontent.com
-18.207.132.5                  favicons.githubusercontent.com
-18.215.187.176                avatars5.githubusercontent.com
-44.200.47.143                 avatars4.githubusercontent.com
-34.205.2.250                  avatars3.githubusercontent.com
-44.200.47.143                 avatars2.githubusercontent.com
-3.238.248.2                   avatars1.githubusercontent.com
-35.175.213.77                 avatars0.githubusercontent.com
-18.206.228.47                 avatars.githubusercontent.com
+3.89.159.184                  raw.githubusercontent.com
+54.166.198.70                 user-images.githubusercontent.com
+54.164.103.139                favicons.githubusercontent.com
+34.229.65.48                  avatars5.githubusercontent.com
+3.236.98.74                   avatars4.githubusercontent.com
+35.174.0.157                  avatars3.githubusercontent.com
+3.235.243.70                  avatars2.githubusercontent.com
+3.235.172.171                 avatars1.githubusercontent.com
+44.193.7.198                  avatars0.githubusercontent.com
+3.235.188.195                 avatars.githubusercontent.com
 140.82.113.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -57,22 +57,22 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
 51.137.3.17                   github.dev
-34.232.63.80                  media.githubusercontent.com
-3.239.86.25                   cloud.githubusercontent.com
-3.236.83.120                  objects.githubusercontent.com
+44.193.209.98                 media.githubusercontent.com
+34.232.63.80                  cloud.githubusercontent.com
+54.81.74.226                  objects.githubusercontent.com
 140.177.205.134               wolfram.com
 140.177.50.65                 wolframcloud.com
 140.177.204.192               wolframalpha.com
 
 
-# Update time: 2022-09-30T04:15:55+08:00
+# Update time: 2022-09-30T06:13:58+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-09-30T04:15:55+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-09-30T06:13:58+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
