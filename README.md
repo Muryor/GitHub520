@@ -24,31 +24,18 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.113.4                  alive.github.com
-18.207.153.89                 github.githubassets.com
-140.82.113.4                  assets-cdn.github.com
-151.101.1.6                   github.map.fastly.net
-140.82.113.4                  gist.github.com
-185.199.108.153               github.io
 192.0.66.2                    github.blog
-44.197.103.129                user-images.githubusercontent.com
-54.166.122.219                avatars5.githubusercontent.com
-3.82.2.85                     avatars3.githubusercontent.com
-54.234.43.204                 avatars1.githubusercontent.com
-107.22.131.81                 avatars.githubusercontent.com
-140.82.113.4                  codeload.github.com
-54.198.208.101                media.githubusercontent.com
-140.177.205.134               wolfram.com
+52.224.38.193                 github.dev
 
 
-# Update time: 2022-11-14T02:14:37+08:00
+# Update time: 2022-11-14T04:13:08+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-14T02:14:37+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-14T04:13:08+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
