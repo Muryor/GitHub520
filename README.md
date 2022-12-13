@@ -26,7 +26,7 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 # GitHub520 Host Start
 140.82.112.4                  alive.github.com
 140.82.112.4                  live.github.com
-44.211.221.19                 github.githubassets.com
+3.83.29.118                   github.githubassets.com
 140.82.112.4                  central.github.com
 3.87.182.156                  desktop.githubusercontent.com
 140.82.112.4                  assets-cdn.github.com
@@ -38,16 +38,16 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 140.82.112.4                  github.com
 192.0.66.2                    github.blog
 140.82.112.4                  api.github.com
-54.91.248.181                 raw.githubusercontent.com
-3.87.182.156                  user-images.githubusercontent.com
+3.87.182.156                  raw.githubusercontent.com
+3.83.29.118                   user-images.githubusercontent.com
 3.87.182.156                  favicons.githubusercontent.com
-54.91.248.181                 avatars5.githubusercontent.com
-3.87.182.156                  avatars4.githubusercontent.com
-54.159.134.160                avatars3.githubusercontent.com
-54.159.134.160                avatars2.githubusercontent.com
+52.91.72.67                   avatars5.githubusercontent.com
+3.92.227.122                  avatars4.githubusercontent.com
+3.92.227.122                  avatars3.githubusercontent.com
+3.92.227.122                  avatars2.githubusercontent.com
 3.87.182.156                  avatars1.githubusercontent.com
-3.83.29.118                   avatars0.githubusercontent.com
-44.211.38.182                 avatars.githubusercontent.com
+54.174.16.59                  avatars0.githubusercontent.com
+3.95.163.122                  avatars.githubusercontent.com
 140.82.112.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -57,21 +57,21 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 185.199.108.153               githubstatus.com
 140.82.114.17                 github.community
 52.224.38.193                 github.dev
-3.83.29.118                   media.githubusercontent.com
-3.83.29.118                   cloud.githubusercontent.com
-3.95.163.122                  objects.githubusercontent.com
+3.87.182.156                  media.githubusercontent.com
+54.157.51.204                 cloud.githubusercontent.com
+3.83.29.118                   objects.githubusercontent.com
 140.177.205.134               wolfram.com
 140.177.204.192               wolframalpha.com
 
 
-# Update time: 2022-12-13T18:11:43+08:00
+# Update time: 2022-12-13T20:19:56+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-13T18:11:43+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-13T20:19:56+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
