@@ -26,8 +26,8 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 # GitHub520 Host Start
 140.82.113.3                  alive.github.com
 140.82.113.3                  live.github.com
-44.205.15.68                  github.githubassets.com
-140.82.113.3                  central.github.com
+3.80.6.92                     github.githubassets.com
+20.106.133.195                central.github.com
 199.232.68.133                desktop.githubusercontent.com
 140.82.113.3                  assets-cdn.github.com
 199.232.68.133                camo.githubusercontent.com
@@ -64,14 +64,14 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 140.177.50.65                 wolframcloud.com
 
 
-# Update time: 2022-12-22T22:09:21+08:00
+# Update time: 2022-12-23T00:13:41+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-22T22:09:21+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-23T00:13:41+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
