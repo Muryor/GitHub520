@@ -24,55 +24,55 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.114.3                  alive.github.com
-140.82.114.3                  live.github.com
-34.220.255.86                 github.githubassets.com
-140.82.114.3                  central.github.com
-35.87.123.165                 desktop.githubusercontent.com
-140.82.114.3                  assets-cdn.github.com
-35.87.123.165                 camo.githubusercontent.com
+140.82.112.3                  alive.github.com
+140.82.112.3                  live.github.com
+44.200.29.180                 github.githubassets.com
+140.82.112.3                  central.github.com
+3.236.64.140                  desktop.githubusercontent.com
+140.82.112.3                  assets-cdn.github.com
+34.229.86.137                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.114.3                  gist.github.com
+140.82.112.3                  gist.github.com
 185.199.108.153               github.io
-140.82.114.3                  github.com
+140.82.112.3                  github.com
 192.0.66.2                    github.blog
-140.82.114.3                  api.github.com
-54.213.57.146                 raw.githubusercontent.com
-34.222.156.109                user-images.githubusercontent.com
-54.191.75.181                 favicons.githubusercontent.com
-34.216.222.9                  avatars5.githubusercontent.com
-52.13.60.119                  avatars4.githubusercontent.com
-18.236.89.151                 avatars3.githubusercontent.com
-35.87.123.165                 avatars2.githubusercontent.com
-54.245.169.215                avatars1.githubusercontent.com
-34.214.5.40                   avatars0.githubusercontent.com
-54.202.53.202                 avatars.githubusercontent.com
-140.82.114.3                  codeload.github.com
+140.82.112.3                  api.github.com
+18.207.133.153                raw.githubusercontent.com
+44.204.107.59                 user-images.githubusercontent.com
+54.198.205.212                favicons.githubusercontent.com
+3.236.64.140                  avatars5.githubusercontent.com
+34.228.78.60                  avatars4.githubusercontent.com
+3.80.2.8                      avatars3.githubusercontent.com
+3.223.125.105                 avatars2.githubusercontent.com
+54.208.91.51                  avatars1.githubusercontent.com
+44.200.29.180                 avatars0.githubusercontent.com
+54.81.217.106                 avatars.githubusercontent.com
+140.82.112.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
-140.82.112.17                 github.community
+140.82.112.18                 github.community
 52.224.38.193                 github.dev
-54.202.53.202                 media.githubusercontent.com
-35.87.123.165                 cloud.githubusercontent.com
-34.216.178.105                objects.githubusercontent.com
+34.229.86.137                 media.githubusercontent.com
+3.238.26.217                  cloud.githubusercontent.com
+44.205.19.5                   objects.githubusercontent.com
 140.177.205.134               wolfram.com
 140.177.50.65                 wolframcloud.com
 140.177.204.192               wolframalpha.com
 
 
-# Update time: 2023-02-27T06:10:05+08:00
+# Update time: 2023-02-27T08:55:06+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-27T06:10:05+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-27T08:55:06+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
