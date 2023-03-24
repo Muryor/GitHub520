@@ -10,6 +10,8 @@
 140.82.113.3                  github.com
 192.0.66.2                    github.blog
 140.82.113.3                  api.github.com
+20.172.40.177                 raw.githubusercontent.com
+20.172.40.177                 user-images.githubusercontent.com
 140.82.113.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -22,7 +24,7 @@
 140.177.205.134               wolfram.com
 
 
-# Update time: 2023-03-24T22:10:55+08:00
+# Update time: 2023-03-25T00:14:06+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
