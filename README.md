@@ -24,39 +24,55 @@ hosts 镜像站的服务器即将到期，续费需要 1000 元 😢，有余粮
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.113.4                  alive.github.com
-140.82.113.4                  live.github.com
-140.82.113.4                  central.github.com
-140.82.113.4                  assets-cdn.github.com
-151.101.1.6                   github.map.fastly.net
-151.101.1.6                   github.global.ssl.fastly.net
-140.82.113.4                  gist.github.com
-185.199.108.153               github.io
-140.82.113.4                  github.com
-192.0.66.2                    github.blog
-140.82.113.4                  api.github.com
-140.82.113.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153               githubstatus.com
-140.82.113.17                 github.community
-52.224.38.193                 github.dev
-140.177.9.134                 wolfram.com
-140.177.50.65                 wolframcloud.com
-140.177.8.192                 wolframalpha.com
+0.0.1.1                       alive.github.com
+0.0.1.1                       live.github.com
+0.0.1.1                       github.githubassets.com
+0.0.1.1                       central.github.com
+0.0.1.1                       desktop.githubusercontent.com
+0.0.1.1                       assets-cdn.github.com
+0.0.1.1                       camo.githubusercontent.com
+0.0.1.1                       github.map.fastly.net
+0.0.1.1                       github.global.ssl.fastly.net
+0.0.1.1                       gist.github.com
+0.0.1.1                       github.io
+0.0.1.1                       github.com
+0.0.1.1                       github.blog
+0.0.1.1                       api.github.com
+0.0.1.1                       raw.githubusercontent.com
+0.0.1.1                       user-images.githubusercontent.com
+0.0.1.1                       favicons.githubusercontent.com
+0.0.1.1                       avatars5.githubusercontent.com
+0.0.1.1                       avatars4.githubusercontent.com
+0.0.1.1                       avatars3.githubusercontent.com
+0.0.1.1                       avatars2.githubusercontent.com
+0.0.1.1                       avatars1.githubusercontent.com
+0.0.1.1                       avatars0.githubusercontent.com
+0.0.1.1                       avatars.githubusercontent.com
+0.0.1.1                       codeload.github.com
+0.0.1.1                       github-cloud.s3.amazonaws.com
+0.0.1.1                       github-com.s3.amazonaws.com
+0.0.1.1                       github-production-release-asset-2e65be.s3.amazonaws.com
+0.0.1.1                       github-production-user-asset-6210df.s3.amazonaws.com
+0.0.1.1                       github-production-repository-file-5c1aeb.s3.amazonaws.com
+0.0.1.1                       githubstatus.com
+0.0.1.1                       github.community
+0.0.1.1                       github.dev
+0.0.1.1                       media.githubusercontent.com
+0.0.1.1                       cloud.githubusercontent.com
+0.0.1.1                       objects.githubusercontent.com
+0.0.1.1                       wolfram.com
+0.0.1.1                       wolframcloud.com
+0.0.1.1                       wolframalpha.com
 
 
-# Update time: 2024-06-05T14:14:43+08:00
+# Update time: 2024-06-11T18:12:00+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-06-05T14:14:43+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-06-11T18:12:00+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
